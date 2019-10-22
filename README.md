@@ -12,6 +12,10 @@ O programa realiza o encoding e decoding utilizando o Código de Huffman a parti
 
 ## Screenshots
 
+![](https://i.ibb.co/qJCnfKV/pa2.png)
+![](https://i.ibb.co/WPBjZcz/PA3.png)
+
+
 ## Instalação 
 **Linguagem**: C++<br>
 
